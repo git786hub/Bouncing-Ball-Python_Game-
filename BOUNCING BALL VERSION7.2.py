@@ -1,3 +1,4 @@
+# this is my latest version of my game which has somehow better parts from its last versions which was crreated by me
 #isme mene input block dikhaya h jab bhi high score toote ga to vo box aajaega 
 #in this version ,we have open anorther service which will save the name of the person who score highest
 from tkinter import *
